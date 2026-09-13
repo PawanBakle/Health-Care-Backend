@@ -1,0 +1,16 @@
+#env vars
+.env
+.env.local
+*.env
+
+# Python and virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+.vscode/
+.idea/
+*.swp
+
